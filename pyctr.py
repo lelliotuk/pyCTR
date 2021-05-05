@@ -219,7 +219,6 @@ class SaveSlot:
 
 
 class Track:
-
     def __init__(self, track_data):
         self.update(track_data)
     
